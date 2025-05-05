@@ -15,12 +15,12 @@ int main() {
   tabuleiro[6][8] = 3;
   tabuleiro[7][8] = 3;
 
-    // Navio vertical na linha 1 a 3, coluna 6 a 8
+    // Navio diagonal na linha 1 a 3, coluna 6 a 8
     tabuleiro[8][1] = 3;
     tabuleiro[7][2] = 3;
     tabuleiro[6][3] = 3;
 
-     // Navio vertical na linha 1 a 3, coluna 6 a 8
+     // Navio diagonal na linha 1 a 3, coluna 6 a 8
      tabuleiro[1][8] = 3;
      tabuleiro[2][7] = 3;
      tabuleiro[3][6] = 3;
